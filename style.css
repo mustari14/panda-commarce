@@ -20,3 +20,34 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    background-color: #da920d;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat2{
+    background-color: rgb(236, 4, 236);
+   
+}
+.cat3{
+    background-color: blue;
+    
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border:none;
+    border-radius:10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
